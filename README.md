@@ -40,8 +40,8 @@ A Flask-based web application that generates images using the **Stable Diffusion
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/stable-diffusion-image-generator.git
-   cd stable-diffusion-image-generator
+   git clone https://github.com/RISHI70612/IMAGE-GENERATION.git
+   cd IMAGE-GENERATION
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
