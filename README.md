@@ -5,6 +5,8 @@ A Flask-based web application that generates images using the **Stable Diffusion
 
 
 ## Demo
+![image](https://github.com/user-attachments/assets/496f444e-8d61-4aaf-a305-93443d03e2a6)
+
 ![generated_image (1)](https://github.com/user-attachments/assets/396f1403-6e63-400b-8ef6-8ccce5e28b25)
 
 
