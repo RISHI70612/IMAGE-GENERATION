@@ -1,35 +1,30 @@
 
-
----
-
-```markdown
 # Stable Diffusion Image Generator
 
-A Flask-based web application that generates images using the **Stable Diffusion** model from Hugging Face. Users can input a text prompt, and the application will generate and display an image based on the prompt.
+A Flask-based web application that generates images using the **Stable Diffusion** model from Hugging Face. Users can input a text prompt, and the application will generate and display an image based on the prompt. 
 
-![Demo](https://via.placeholder.com/800x400.png?text=Stable+Diffusion+Image+Generator) <!-- Replace with an actual screenshot or GIF -->
 
----
+## Demo
+
+Insert gif or link to demo
+
 
 ## Features
 
-- **Text-to-Image Generation**: Generate high-quality images from text prompts using the Stable Diffusion model.
+ **Text-to-Image Generation**: Generate high-quality images from text prompts using the Stable Diffusion model.
 - **User-Friendly Interface**: Simple and intuitive web interface for entering prompts and viewing generated images.
 - **Download Images**: Download generated images in PNG format.
 - **Error Handling**: Displays error messages if the API request fails or the prompt is invalid.
 
----
 
-## Technologies Used
+
+## Technology Used
 
 - **Python**: Backend logic and API integration.
 - **Flask**: Web framework for handling requests and rendering templates.
 - **Hugging Face API**: Integration with the Stable Diffusion model for image generation.
 - **HTML/CSS**: Frontend design and user interface.
 - **Bootstrap**: Optional for additional styling (not included in the current version).
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -106,8 +101,6 @@ stable-diffusion-image-generator/
 └── README.md               # Project documentation
 ```
 
----
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
@@ -137,9 +130,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Your Name** - [your.email@example.com](mailto:rishi70612@gmail.com)
-- **GitHub**: [your-username](https://github.com/rishi70612)
-```
-
----
+- **Your Name** - [rishi70612@gmail.com](mailto:rishi70612@gmail.com)
+- **GitHub**: [rishi70612](https://github.com/rishi70612)
 
